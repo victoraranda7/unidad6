@@ -14,7 +14,7 @@ int main() {
 
     switch(opciones) {
         case 1:
-            printf("Que disfrute sus tacos al pastor, Gracias!");
+            printf("Que disfrute sus tacos de pastor, Gracias!");
             break;
         case 2:
             printf("Que disfrute su torta de pastor, Gracias!");
